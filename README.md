@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning IT at a university
 - 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me https://ouchpanhchakolwebforhost.on.drv.tw/www.maiiprofile.com/
+- 📫 How to reach me https://ouchpanhchakolwebforhost.on.drv.tw/www.panhchakol-profile.com/
 
 <!---
 Panhchakol/Panhchakol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
